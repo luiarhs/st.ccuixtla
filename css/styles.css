@@ -1,0 +1,5 @@
+.btn-secondary {
+    /* !important se usa para que tome precedencia sobre otras reglas css*/
+    background: #0099cc !important;
+    color: #ffffff;
+}
